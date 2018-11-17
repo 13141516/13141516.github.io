@@ -6,16 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: chale chen
+baseurl: /13141516.github.io
+description: "I graduate from University of Chinese Academy of Sciences as Master Degree. In the past I participate in the development of many projects like Java, C/C, phython and so on.When I see Data Contest and Machine Learning, I am addicted to it. So now I decide to do it with every who want to do Machine Learning!"
 email: chuzhouchenli@163.com
-description: I graduate from University of Chinese Academy of Sciences as Master 
-Degree. In the past I participate in the development of many projects like Java, 
-C/C, phython and so on.When I see Data Contest and Machine Learning, I am addicted 
-to it. So now I decide to do it with every who want to do Machine Learning!
-baseurl: "/13141516.github.io" # the subpath of your site, e.g. /blog
-url: "https://github.com/13141516/" # the base hostname & protocol for your site
+github_username: chenli
+markdown: kramdown
+title: "chale chen"
 twitter_username: chenli
-github_username:  chenli
+url: "https://github.com/13141516/"
 
 # Build settings
 markdown: kramdown
